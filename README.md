@@ -1,8 +1,10 @@
 # Using Robocorp Control Room with Apple Shortcuts
 
+This is an example on triggering a process in the Control Room (POST), but all API endpoints are usable and you could for example. use same mechanism to get information from the latest run, list latest runs..
+
 ## Things to note
 
-1. You need to keep in mind all the devices the iCloud syncing these Shortcuts will be synced with
+1. When using iCloud sync, **all devices** connected to the iCloud account will get access to this Shortcut 
 
 ## Implement the shortcut with Mac application `Shortcuts`
 
