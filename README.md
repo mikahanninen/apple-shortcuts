@@ -1,6 +1,6 @@
 # Using Robocorp Control Room with Apple Shortcuts
 
-This is an example on triggering a process in the Control Room (POST), but all API endpoints are usable and you could for example. use same mechanism to get information from the latest run, list latest runs..
+This is an example on triggering a process in the Control Room (POST), but all API endpoints are usable and you could for example. use same mechanism to get information from the latest run, list latest runs etc
 
 ## Things to note
 
