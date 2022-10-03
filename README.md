@@ -1,5 +1,9 @@
 # Using Robocorp Control Room with Apple Shortcuts
 
+## Things to keep in mind
+
+1. You need to keep in mind all the devices the iCloud syncing these Shortcuts will be synced with
+
 ## Implement the shortcut with Mac application `Shortcuts`
 
 If ICloud syncing is on between Mac and other IOS devices then implemented shortcut will appear almost instantly for example. on your iPhone.
