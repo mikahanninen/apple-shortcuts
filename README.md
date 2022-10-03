@@ -1,6 +1,6 @@
 # Using Robocorp Control Room with Apple Shortcuts
 
-## Things to keep in mind
+## Things to note
 
 1. You need to keep in mind all the devices the iCloud syncing these Shortcuts will be synced with
 
