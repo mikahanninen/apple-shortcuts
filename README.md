@@ -1,4 +1,4 @@
-# Using Robocorp Control Room with Apple Shorts
+# Using Robocorp Control Room with Apple Shortcuts
 
 ## Implement the shortcut with Mac application `Shortcuts`
 
